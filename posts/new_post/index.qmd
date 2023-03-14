@@ -1,0 +1,34 @@
+---
+title: "New post"
+author: "Subin"
+date: "2023-03-14"
+categories: [news, code, analysis]
+image: "damgom.png"
+---
+
+블로그에 자유롭게 글을 쓰는 것이 가능합니다.
+
+
+```{python}
+%matplotlib inline
+import matplotlib.pyplot as plt
+import numpy as np
+
+# 1000개의 랜덤한 점 생성
+x = np.random.rand(1000)
+y = np.random.rand(1000)
+
+# scatterplot 그리기
+plt.scatter(x, y, s=10, c='blue')
+
+# 축 라벨 지정
+plt.xlabel('X축')
+plt.ylabel('Y축')
+
+# 그래프 타이틀 지정
+plt.title('Scatter Plot 예제')
+
+# 그래프 출력
+plt.show()
+
+```
