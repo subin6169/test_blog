@@ -1,0 +1,11 @@
+{
+  "hash": "16b270e3cd14860fe50ac930ee7e8b8d",
+  "result": {
+    "markdown": "---\ntitle: \"New post\"\nauthor: \"Subin\"\ndate: \"2023-03-14\"\ncategories: [news, code, analysis]\nimage: \"damgom.png\"\n---\n\n블로그에 자유롭게 글을 쓰는 것이 가능합니다.\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\n%matplotlib inline\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# 1000개의 랜덤한 점 생성\nx = np.random.rand(1000)\ny = np.random.rand(1000)\n\n# scatterplot 그리기\nplt.scatter(x, y, s=10, c='blue')\n\n# 축 라벨 지정\nplt.xlabel('X')\nplt.ylabel('Y')\n\n# 그래프 타이틀 지정\nplt.title('Scatter Plot')\n\n\n# 그래프 출력\nplt.show()\n```\n\n::: {.cell-output .cell-output-display}\n![](index_files/figure-html/cell-2-output-1.png){width=589 height=449}\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

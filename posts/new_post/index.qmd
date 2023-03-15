@@ -22,13 +22,13 @@ y = np.random.rand(1000)
 plt.scatter(x, y, s=10, c='blue')
 
 # 축 라벨 지정
-plt.xlabel('X축')
-plt.ylabel('Y축')
+plt.xlabel('X')
+plt.ylabel('Y')
 
 # 그래프 타이틀 지정
-plt.title('Scatter Plot 예제')
+plt.title('Scatter Plot')
+
 
 # 그래프 출력
 plt.show()
-
 ```
