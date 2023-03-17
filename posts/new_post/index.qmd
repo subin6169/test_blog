@@ -1,5 +1,5 @@
 ---
-title: "New post"
+title: "My first New post"
 author: "Subin"
 date: "2023-03-14"
 categories: [news, code, analysis]
@@ -7,6 +7,7 @@ image: "damgom.png"
 ---
 
 블로그에 자유롭게 글을 쓰는 것이 가능합니다.
+코드 작성도 가능합니다.
 
 
 ```{python}
