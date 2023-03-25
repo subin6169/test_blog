@@ -13,5 +13,8 @@
   },
   "index.qmd": {
     "index.html": "60396422"
+  },
+  "posts/first_numpy/numpy.qmd": {
+    "numpy.html": "f3531c5d"
   }
 }
