@@ -16,5 +16,326 @@
   },
   "posts/first_numpy/numpy.qmd": {
     "numpy.html": "f3531c5d"
+  },
+  "learntools-master/learntools-master/learntools/core/ISSUES.md": {
+    "ISSUES.html": "b17ecafe"
+  },
+  "learntools-master/learntools-master/learntools/python/Writing_Exercises.md": {
+    "Writing_Exercises.html": "b03421aa"
+  },
+  "learntools-master/learntools-master/notebooks/bqml/raw/ex1.ipynb": {
+    "ex1.html": "bd7848b6"
+  },
+  "learntools-master/learntools-master/notebooks/bqml/raw/tut1.ipynb": {
+    "tut1.html": "76831c97"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/ex1.ipynb": {
+    "ex1.html": "d7dc5579"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/ex2.ipynb": {
+    "ex2.html": "4a93039c"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/ex3.ipynb": {
+    "ex3.html": "4574b175"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/ex4.ipynb": {
+    "ex4.html": "cad746fc"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/ex5.ipynb": {
+    "ex5.html": "d9905001"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/ex6.ipynb": {
+    "ex6.html": "4edeb91c"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/ex_tpus.ipynb": {
+    "ex_tpus.html": "f55960ff"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/tut1.ipynb": {
+    "tut1.html": "dfeae003"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/tut2.ipynb": {
+    "tut2.html": "050c15b3"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/tut3.ipynb": {
+    "tut3.html": "35db1f5f"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/tut4.ipynb": {
+    "tut4.html": "64a22bd5"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/tut5.ipynb": {
+    "tut5.html": "8372b5e6"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/tut6.ipynb": {
+    "tut6.html": "1b64c745"
+  },
+  "learntools-master/learntools-master/notebooks/computer_vision/raw/tut_tpus.ipynb": {
+    "tut_tpus.html": "f4bdf0fc"
+  },
+  "learntools-master/learntools-master/notebooks/data_cleaning/raw/ex1.ipynb": {
+    "ex1.html": "af114ca1"
+  },
+  "learntools-master/learntools-master/notebooks/data_cleaning/raw/ex2.ipynb": {
+    "ex2.html": "9c2921c9"
+  },
+  "learntools-master/learntools-master/notebooks/data_cleaning/raw/ex3.ipynb": {
+    "ex3.html": "8013e24f"
+  },
+  "learntools-master/learntools-master/notebooks/data_cleaning/raw/ex4.ipynb": {
+    "ex4.html": "7d198b12"
+  },
+  "learntools-master/learntools-master/notebooks/data_cleaning/raw/ex5.ipynb": {
+    "ex5.html": "e8628588"
+  },
+  "learntools-master/learntools-master/notebooks/data_cleaning/raw/tut1.ipynb": {
+    "tut1.html": "f898ed81"
+  },
+  "learntools-master/learntools-master/notebooks/data_cleaning/raw/tut2.ipynb": {
+    "tut2.html": "6a29b4ec"
+  },
+  "learntools-master/learntools-master/notebooks/data_cleaning/raw/tut3.ipynb": {
+    "tut3.html": "87cf21b1"
+  },
+  "learntools-master/learntools-master/notebooks/data_cleaning/raw/tut4.ipynb": {
+    "tut4.html": "ffb1c415"
+  },
+  "learntools-master/learntools-master/notebooks/data_cleaning/raw/tut5.ipynb": {
+    "tut5.html": "9acaad01"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/ex1.ipynb": {
+    "ex1.html": "b8512eda"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/ex2.ipynb": {
+    "ex2.html": "b6ff1493"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/ex3.ipynb": {
+    "ex3.html": "a24a1e79"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/ex4.ipynb": {
+    "ex4.html": "da5e40fc"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/ex5.ipynb": {
+    "ex5.html": "c0c6d9f9"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/ex6.ipynb": {
+    "ex6.html": "7c3a4722"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/ex7.ipynb": {
+    "ex7.html": "4a2ad217"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/tut1.ipynb": {
+    "tut1.html": "1d972898"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/tut2.ipynb": {
+    "tut2.html": "a699e846"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/tut3.ipynb": {
+    "tut3.html": "59db9e2b"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/tut4.ipynb": {
+    "tut4.html": "df1e10ac"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/tut5.ipynb": {
+    "tut5.html": "0ca8c5b5"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/tut6.ipynb": {
+    "tut6.html": "64d0c5c6"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/tut7.ipynb": {
+    "tut7.html": "6b737b46"
+  },
+  "learntools-master/learntools-master/notebooks/data_viz_to_coder/raw/tut8.ipynb": {
+    "tut8.html": "2c980efb"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/ex1_convolutions.ipynb": {
+    "ex1_convolutions.html": "ed932b43"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/ex3_programming_tf_and_keras.ipynb": {
+    "ex3_programming_tf_and_keras.html": "c89ef588"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/ex4_transfer_learning.ipynb": {
+    "ex4_transfer_learning.html": "5008abde"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/ex5_data_augmentation.ipynb": {
+    "ex5_data_augmentation.html": "05d6bb89"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/ex7_from_scratch.ipynb": {
+    "ex7_from_scratch.html": "60c2856c"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/ex8_dropout_strides.ipynb": {
+    "ex8_dropout_strides.html": "cf10570b"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/ex_tpus.ipynb": {
+    "ex_tpus.html": "bebe0a00"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/tut1_intro.ipynb": {
+    "tut1_intro.html": "94b98c3e"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/tut2_building_models_from_convolutions.ipynb": {
+    "tut2_building_models_from_convolutions.html": "09bb9240"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/tut3_programming_tf_and_keras.ipynb": {
+    "tut3_programming_tf_and_keras.html": "94aa71c1"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/tut4_transfer_learning.ipynb": {
+    "tut4_transfer_learning.html": "6ec0cdca"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/tut5_data_augmentation.ipynb": {
+    "tut5_data_augmentation.html": "074b2d41"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/tut6_deep_understanding.ipynb": {
+    "tut6_deep_understanding.html": "006f6be5"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/tut7_dl_from_scratch.ipynb": {
+    "tut7_dl_from_scratch.html": "e056670c"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/tut8_dropout_and_strides.ipynb": {
+    "tut8_dropout_and_strides.html": "99e18251"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning/raw/tut_tpus.ipynb": {
+    "tut_tpus.html": "dc93463c"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/ex1.ipynb": {
+    "ex1.html": "aa126969"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/ex2.ipynb": {
+    "ex2.html": "411c079e"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/ex3.ipynb": {
+    "ex3.html": "521dea28"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/ex4.ipynb": {
+    "ex4.html": "1ec901cb"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/ex5.ipynb": {
+    "ex5.html": "a97683d6"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/ex6.ipynb": {
+    "ex6.html": "70832eff"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/tut1.ipynb": {
+    "tut1.html": "eb1b9b9d"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/tut2.ipynb": {
+    "tut2.html": "6d591a75"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/tut3.ipynb": {
+    "tut3.html": "0c2b324a"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/tut4.ipynb": {
+    "tut4.html": "5cbe1b3c"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/tut5.ipynb": {
+    "tut5.html": "c637592a"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/tut6.ipynb": {
+    "tut6.html": "1ba412d2"
+  },
+  "learntools-master/learntools-master/notebooks/deep_learning_intro/raw/tut_tpus.ipynb": {
+    "tut_tpus.html": "bcc4a893"
+  },
+  "learntools-master/learntools-master/notebooks/embeddings/local_setup_notes.md": {
+    "local_setup_notes.html": "3cfbc796"
+  },
+  "learntools-master/learntools-master/notebooks/embeddings/raw/0-movie-preprocessing.ipynb": {
+    "0-movie-preprocessing.html": "43fce07a"
+  },
+  "learntools-master/learntools-master/notebooks/embeddings/raw/1-embeddings.ipynb": {
+    "1-embeddings.html": "fa400670"
+  },
+  "learntools-master/learntools-master/notebooks/embeddings/raw/1-exercises.ipynb": {
+    "1-exercises.html": "adc8be46"
+  },
+  "learntools-master/learntools-master/notebooks/embeddings/raw/2-exercises.ipynb": {
+    "2-exercises.html": "051ef811"
+  },
+  "learntools-master/learntools-master/notebooks/embeddings/raw/2-factorization.ipynb": {
+    "2-factorization.html": "16bfb5db"
+  },
+  "learntools-master/learntools-master/notebooks/embeddings/raw/3-exercises.ipynb": {
+    "3-exercises.html": "362167c2"
+  },
+  "learntools-master/learntools-master/notebooks/embeddings/raw/3-gensim.ipynb": {
+    "3-gensim.html": "d9dd6512"
+  },
+  "learntools-master/learntools-master/notebooks/embeddings/raw/4-exercises.ipynb": {
+    "4-exercises.html": "1d1ed67c"
+  },
+  "learntools-master/learntools-master/notebooks/embeddings/raw/4-tsne.ipynb": {
+    "4-tsne.html": "cbf2dcd2"
+  },
+  "learntools-master/learntools-master/notebooks/embeddings/raw/x2-movielens-factorization-r12n.ipynb": {
+    "x2-movielens-factorization-r12n.html": "39ffc09c"
+  },
+  "learntools-master/learntools-master/notebooks/embeddings/raw/x3-movielens-spiffy-model.ipynb": {
+    "x3-movielens-spiffy-model.html": "f74ca963"
+  },
+  "learntools-master/learntools-master/notebooks/ethics/raw/ex2.ipynb": {
+    "ex2.html": "e78f6856"
+  },
+  "learntools-master/learntools-master/notebooks/ethics/raw/ex3.ipynb": {
+    "ex3.html": "eb6bc5da"
+  },
+  "learntools-master/learntools-master/notebooks/ethics/raw/ex4.ipynb": {
+    "ex4.html": "460acab6"
+  },
+  "learntools-master/learntools-master/notebooks/ethics/raw/ex5.ipynb": {
+    "ex5.html": "7c83a3e2"
+  },
+  "learntools-master/learntools-master/notebooks/ethics/raw/tut1.ipynb": {
+    "tut1.html": "bd5ad5c6"
+  },
+  "learntools-master/learntools-master/notebooks/ethics/raw/tut2.ipynb": {
+    "tut2.html": "53086c3f"
+  },
+  "learntools-master/learntools-master/notebooks/ethics/raw/tut3.ipynb": {
+    "tut3.html": "5e4645d6"
+  },
+  "learntools-master/learntools-master/notebooks/ethics/raw/tut4.ipynb": {
+    "tut4.html": "f63c10a0"
+  },
+  "learntools-master/learntools-master/notebooks/ethics/raw/tut5.ipynb": {
+    "tut5.html": "c696aad2"
+  },
+  "learntools-master/learntools-master/notebooks/examples/example_track/raw/appendix.ipynb": {
+    "appendix.html": "1159b1ad"
+  },
+  "learntools-master/learntools-master/notebooks/examples/example_track/raw/ex1-hello.ipynb": {
+    "ex1-hello.html": "2e3f68a6"
+  },
+  "learntools-master/learntools-master/notebooks/examples/example_track/raw/tut1-hello.ipynb": {
+    "tut1-hello.html": "eab7fd0d"
+  },
+  "learntools-master/learntools-master/notebooks/examples/example_track/raw/tut2-scratch.ipynb": {
+    "tut2-scratch.html": "fa159c6a"
+  },
+  "learntools-master/learntools-master/notebooks/examples/example_track/raw/tut2.ipynb": {
+    "tut2.html": "79969f48"
+  },
+  "learntools-master/learntools-master/notebooks/feature_engineering/raw/ex1.ipynb": {
+    "ex1.html": "28240e8c"
+  },
+  "learntools-master/learntools-master/notebooks/feature_engineering/raw/ex2.ipynb": {
+    "ex2.html": "1df7a752"
+  },
+  "posts/quiz/exercise-coordinate-reference-systems.ipynb": {
+    "exercise-coordinate-reference-systems.html": "69dd2e6e"
+  },
+  "posts/quiz/exercise-interactive-maps.ipynb": {
+    "exercise-interactive-maps.html": "6ac36141"
+  },
+  "posts/quiz/exercise-your-first-map.ipynb": {
+    "exercise-your-first-map.html": "884f7a35"
+  },
+  "posts/first_numpy/first_lect.qmd": {
+    "first_lect.html": "94cff162"
+  },
+  "posts/quiz/exercise_first_map.ipynb": {
+    "exercise_first_map.html": "7bb373c8"
+  },
+  "posts/quiz/exercise-proximity-analysis.ipynb": {
+    "exercise-proximity-analysis.html": "0701896d"
+  },
+  "posts/quiz/exercise-manipulating-geospatial-data.ipynb": {
+    "exercise-manipulating-geospatial-data.html": "38a92609"
   }
 }
