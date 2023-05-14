@@ -16,5 +16,8 @@ format:
     theme: Minty
     css: styles.css
 
+engines:
+  python:
+    path: ~\.conda\envs\myenv\python.exe
 
 
