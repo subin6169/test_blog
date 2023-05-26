@@ -337,5 +337,8 @@
   },
   "posts/quiz/exercise-manipulating-geospatial-data.ipynb": {
     "exercise-manipulating-geospatial-data.html": "38a92609"
+  },
+  "posts/second_pandas/pandas.ipynb": {
+    "pandas.html": "9fcba668"
   }
 }

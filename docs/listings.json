@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/second_pandas/pandas.html",
       "/posts/quiz/exercise-coordinate-reference-systems.html",
       "/posts/quiz/exercise-interactive-maps.html",
       "/posts/quiz/exercise-manipulating-geospatial-data.html",
